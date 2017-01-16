@@ -1,0 +1,28 @@
+.baslik {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.icyazi {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+.icyazi_red {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #CC0000;
+}
+a:link {
+	color: #0000FF;
+}
+a:hover {
+	color: #FF0000;
+}
+a:visited {
+	color: #0000FF;
+}
+a:active {
+	color: #FF0000;
+}

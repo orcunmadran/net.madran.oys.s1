@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2006-10-18T13:53:15">
+<egitim>
+<girisno>5</girisno>
+<ellesirala>100</ellesirala>
+<baslik>1. E- öğrenme için Araç ve Teknolojiler</baslik>
+<gorsel>icerik/100.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Konumuz E-öğrenme için Araç ve Teknolojiler. Görevimiz ise bilgi ve becerileri herkese, her yerden ve her zaman erişilebilir yapmak. Peki nasıl? &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;left&quot; class=&quot;icyazi&quot;&gt;Öncelikle bir bütçeye ve harcamak için yardımcı insan gücüne ihtiyacımız var. Sonra, e-öğrenme ortamını yaratmak, eğitsel web sitelerini hazırlamak, içeriği oluşturmak ve bilgi yönetimini sağlamak için teknolojiye gereksinim var. O zaman nerden başlamalıyız?&lt;/p&gt;</icerik>
+<cokluortam>icerik/100.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+<anabaslik>E-Öğrenmede Araç ve Teknolojiler</anabaslik>
+</egitim>
+<egitim>
+<girisno>6</girisno>
+<ellesirala>101</ellesirala>
+<baslik>1.1. Önce Bireyler</baslik>
+<gorsel>icerik/101.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-Öğrenmenin başarıya ulaşması için salt teknoloji yeterli değildir. Teknoloji içeriğin bireylere aktarılmasını sağlayan araçlardır. Başlamak için doğru nokta, teknolojinin hangi hedef kitle için gerekli olduğu sorusunun yanıtında saklıdır. (hedef kitle analizi)&lt;/p&gt;</icerik>
+<cokluortam>icerik/101.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>7</girisno>
+<ellesirala>102</ellesirala>
+<baslik>1.2. Katılımcılar ve Süreçler</baslik>
+<gorsel>icerik/102.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme sürecine, kimlerin hangi teknolojilere ihtiyaç duyduğunu incelemekle başlayalım. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;- E-öğrenme ortamını (ders ve web sitelerini) oluşturanlar (&lt;span class=&quot;icyazi_red&quot;&gt;Yapımcılar&lt;/span&gt;) &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;- E-öğrenme ortamına erişenler (&lt;span class=&quot;icyazi_red&quot;&gt;öğrenciler&lt;/span&gt;) &lt;/p&gt;</icerik>
+<cokluortam>icerik/102.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>8</girisno>
+<ellesirala>103</ellesirala>
+<baslik>1.3. Katılanları ve süreçleri inceleyelim!</baslik>
+<gorsel>icerik/103.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;baslik&quot;&gt;Yapımcılar&lt;/span&gt; (E-öğrenmeyi yaratır)&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Öğretim tasarımcıları, yazarlar, editörler, grafikerler, fotoğrafçılar, animatörler, ses ve video uzmanları, alan uzmanları, öğretim teknologları ve programcılardan oluşan bir ekip.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;baslik&quot;&gt;Öğrenciler&lt;/span&gt; (E-öğrenmeye erişir)&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Farklı yaşta, farklı deneyimlere sahip, farklı sorumlulukları olan, farklı bilgi ve becerilerle donatılmış, farklı mesleklerde çalışan kullanıcı kitlesi.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;baslik&quot;&gt;İçerik Sağlayıc&lt;/span&gt;ı (E-öğrenme için içerik sağlar)&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme çözümünü bilgisayar ağları aracılığı ile öğrenci, öğretici ve teknik destek ekibinin erişimine açan kurum. &lt;/p&gt;</icerik>
+<cokluortam>icerik/103.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>9</girisno>
+<ellesirala>104</ellesirala>
+<baslik>1.4. Katılanların İhtiyaçları</baslik>
+<gorsel>icerik/104.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Yapımcı, öğrenci ve sunucu olmak üzere her üç katılımcınında üç tür teknolojiye gereksinimi vardır: &lt;span class=&quot;icyazi_red&quot;&gt;Donanım&lt;/span&gt;, &lt;span class=&quot;icyazi_red&quot;&gt;Ağ bağlantısı&lt;/span&gt; ve &lt;span class=&quot;icyazi_red&quot;&gt;yazılım&lt;/span&gt; &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;icyazi_red&quot;&gt;Öğrenci&lt;/span&gt; bir kişisel bilgisayara ve normal hızda bir Internet bağlantısına ihtiyaç duyar. Ayrıca kişisel bilgisayarda yüklü işletim sistemine ek olarak, web gözgezdirici ve medya oynatıcı gibi farklı yazılımlar gerekir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;icyazi_red&quot;&gt;İçerik sağlayıcı&lt;/span&gt; güçlü bir ağ sunucusuna ihtiyaç vardır. Hızlı bir Internet bağlantısı olmalıdır. İçeriğin sağlamak için ise web sunucu yazılımları, iletişim araçları ve medya sunucusu gibi yazılımlar gerekir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&lt;span class=&quot;icyazi_red&quot;&gt;Yapımcı&lt;/span&gt; grafik, animasyon, video filmler, ses ve diğer medyaları hazırlayabilmek için çokluortam bilgisayar ve iş istasyonlarına ihtiyaç duyar. Normal hızda bir Internet bağlantısı yeterli olabilir. Farklı medyaları oluşturabilmek için ise özel yazılımlar gereklidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/104.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>10</girisno>
+<ellesirala>105</ellesirala>
+<baslik>1.5. Nerden başlamalıyız?</baslik>
+<gorsel>icerik/105.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Planlamanın doğru yapılabilmesi için üstteki şeklin her zaman sağ tarafından başlamamız gerekir. Öncelikle hedef kitlenin hangi teknolojiyi kullandığını belirlemeli ve sonra geriye doğru hareket etmeliyiz. &lt;/p&gt;</icerik>
+<cokluortam>icerik/105.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>11</girisno>
+<ellesirala>106</ellesirala>
+<baslik>1.6. Hedef kitle hangi teknolojiyi kullanıyor?</baslik>
+<gorsel>icerik/106.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Hedef kitle ve kullandığı olası teknolojilere bir göz atalım.&lt;/p&gt;</icerik>
+<cokluortam>icerik/106.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>12</girisno>
+<ellesirala>107</ellesirala>
+<baslik>1.7. Hedef kitle Internete nasıl bağlanıyor?</baslik>
+<gorsel>icerik/107.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kullanıcıların olası Internet bağlantıları neler olabilir?&lt;/p&gt;</icerik>
+<cokluortam>icerik/107.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>13</girisno>
+<ellesirala>108</ellesirala>
+<baslik>1.8. Hedef kitle hangi yazılımları kullanıyor?</baslik>
+<gorsel>icerik/108.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kullanıcıların kullandıkları yazılımlar neler olabilir? Bu olasılıkları çeşitlendirebilirsiniz.&lt;/p&gt;</icerik>
+<cokluortam>icerik/108.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>14</girisno>
+<ellesirala>109</ellesirala>
+<baslik>1.9. Öğretim İçeriğini Geliştirmek</baslik>
+<gorsel>icerik/109.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Öğretim içeriğini geliştirmek karışık ve pahalı bir süreçtir. E-öğrenme ortamı hazırlamak isteyen kurumların her türlü detayla uğraşmasına gerek yoktur.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;- E-öğrenme içeriğinin oluşturulması istenen ders, bu konuda uzmanlaşmış bir firmaya ihale edilebilir&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;- Hem öğrenme içeriğinin hemde tasarımın firmaya ihalesi ile tam bir çözüm üretilebilir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;- Son olarak, hazır bir yapının satın alınması veya kiralanması söz konusu olabilir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Hangi çözümü seçerseniz seçin, analiz ve değerlendirme basamaklarında kurum olarak yer almanız kaçınılmazdır.&lt;/p&gt;</icerik>
+<cokluortam>icerik/109.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>15</girisno>
+<ellesirala>110</ellesirala>
+<baslik>1.10 Çalışma Zamanı</baslik>
+<gorsel>icerik/110.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Unutmayın, önce katılımcılar gelir. Projenizde rol alacak bireyleri belirleyin ve onların sizi araç ve teknolojileri belirlerken yönlendirmesine izin verin. Başlamak için aşağıdaki adımları izleyin.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;1. E-öğrenme projenizdeki tüm katılımcıları listeleyin.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;2. Her bir katılımcının katkısını ve ihtiyacını belirleyin.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;3. Katılımcıların kullandığı araç ve teknolojileri gruplayın.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;4. Kurumunuzun yürüteceği ve dışarıya ihale edilecek işlemler konusunda karar verin.&lt;/p&gt;</icerik>
+<cokluortam>icerik/110.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>16</girisno>
+<ellesirala>200</ellesirala>
+<baslik>2. E-öğrenme Türleri ve Gerekli Teknolojiler</baslik>
+<gorsel>icerik/200.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme genel olarak &amp;quot;web ve Internet teknolojilerinin, öğrenme deneyimleri oluşturmak için kullanılması&amp;quot; şeklinde tanımlanabilir. E-öğrenme daha detaylı düşündüğümüzde farklı biçimlerde karşımıza çıkabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/200.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>17</girisno>
+<ellesirala>201</ellesirala>
+<baslik>2.1. Öğrenci Önderliğinde E-Öğrenme</baslik>
+<gorsel>icerik/201.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bağımsız öğrenci gruplarını oluşturan öğrencilerin kendi denetimleri dahilinde gerçekleşen e-öğrenme türüdür. İçerik, web sayfaları, çokluortam sunuları ve diğer etkileşimli öğrenme deneyimlerinden oluşabilir. Bu içeriğe bir web sunucusu üzerinden erişilebilir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;ğrenci önderliğinde gerçekleşen e-öğrenme türünde içeriğin tümü ders materyalleri aracılığıyla aktarılır. ğrenme ortamında bir öğretmen veya yönlendirici bulunmaz. Ayrıca öğrenciler arasında iletişimi sağlayan ortamlar ve araçlar da yoktur. ğrenci tamamen bağımsızdır.&lt;/p&gt;</icerik>
+<cokluortam>icerik/201.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>18</girisno>
+<ellesirala>202</ellesirala>
+<baslik>2.2. Öğrenci Önderliğinde E-Öğrenme için Gerekli Teknolojiler</baslik>
+<gorsel>icerik/202.swf</gorsel>
+<icerik>&lt;p class=&quot;baslik&quot;&gt;Öğrenci Önderliğinde  E-Öğrenme için Gerekli Teknolojiler &lt;/p&gt;</icerik>
+<cokluortam>icerik/202.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>19</girisno>
+<ellesirala>203</ellesirala>
+<baslik>2.3. Yönlendirilmiş E-Öğrenme</baslik>
+<gorsel>icerik/203.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Yönlendirilmiş e-öğrenme öğrenci önderliğindeki e-öğrenme türünde bahsedilen web içeriği ile işbirliğine dayalı etkinlikleri bir arada barındırır. Diğer öğrencilerle iletişim kurmaya ve yiönlendirmeye ihtiyaç duyan öğrenciler için uygundur. Yönlendirmeyi yapan kişi soruları yanıtlayabilir, problemlerin çözülmesine yardım eder ve bazen değerlendirme yapabilir. Ancak, içeriği öğretmek gibi bir rolü yoktur. Bu türde ödevler forum aracılığı ile iletilebilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/203.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>20</girisno>
+<ellesirala>204</ellesirala>
+<baslik>2.4. Yönlendirilmiş E-Öğrenme için Gerekli Teknolojiler</baslik>
+<gorsel>icerik/204.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Şimdi ise öğrencilerin kendilerini yönlendiren bir öğretici ile çalıştıkları durumda  hangi teknolojilere gereksinim duyabileceklerini inceleyelim.&lt;/p&gt;</icerik>
+<cokluortam>icerik/204.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>21</girisno>
+<ellesirala>205</ellesirala>
+<baslik>2.5. Öğretmen Önderliğinde E-Öğrenme</baslik>
+<gorsel>icerik/205.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Öğretmen önderliğindeki e-öğrenme türünde öğretim web teknolojileri ile gerçekleştirilir. Bu süreçte sesli ve görüntülü konferans, sohbet, ekran paylaşımı ve beyaz tahta gibi   gerçek zamanlı teknolojiler kullanılabilir. Öğretmen sesli ve görüntülü olarak slaytlar veya gösterimler eşliğinde içeriği aktarır. ğrenciler sohbet ortamında veya e-posta ile soru sorabilirler. Alt yapıları uygunsa öğrenciler de sesli veya görüntülü konferansa katılabilir. Burada da ödevler foruma gönderilebilir veya e-posta ile alınabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/205.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>22</girisno>
+<ellesirala>206</ellesirala>
+<baslik>2.6. Öğretmen Önderliğinde E-öğrenme için Gerekli Teknolojiler</baslik>
+<gorsel>icerik/206.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme ortamında öğretmenin ağırlıklı olarak rol aldığı süreçler için gerekli teknolojilerin neler olabileceğini inceleyelim. &lt;/p&gt;</icerik>
+<cokluortam>icerik/206.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>23</girisno>
+<ellesirala>207</ellesirala>
+<baslik>2.7. Bütünleşik E-Öğrenme</baslik>
+<gorsel>icerik/207.swf</gorsel>
+<icerik>Bütünleşik e-öğrenme anında öğretim sağlar. Bilgisayar programları, yardım dosyaları, web sayfaları veya ağ uygulamaları içerisinde yer alabilir. Hatta elektronik performans destek sisteminin bir parçası bile olabilir. Bütünleşik e-öğrenme acilen çözülmesi gereken problemleri olan kullanıcılara hitap eder. Genellikle, ilgili programla ilişkilendirilmiş olarak öğrencinin bilgisayarına yerleştirilmiştir. rneğin, yeni aldığımız bir yazıcıyı bilgisayara tanıtırken bir problem çıkarsa yardım menüsünden gerekli adımlar takip edilerek problem çözülebilir. Ya da yeni yüklenen yazılımın kullanılmasına ilişkin kısa bir öğretici yardımı alınabilir.</icerik>
+<cokluortam>icerik/207.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>24</girisno>
+<ellesirala>208</ellesirala>
+<baslik>2.8. Bütünleşik E-Öğrenme için Gerekli Teknolojiler</baslik>
+<gorsel>icerik/208.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kendi kendine öğrenmenin gerçekleşmesi içini bütünleştirilmiş teknolojiler ve içerik sunulması açısından hangi teknolojiler gerekli olabilir? &lt;/p&gt;</icerik>
+<cokluortam>icerik/208.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>25</girisno>
+<ellesirala>209</ellesirala>
+<baslik>2.9. Tele-danışmanlık ve E-koçluk</baslik>
+<gorsel>icerik/209.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-koçluk, en son teknolojileri kullanarak öğrenciye yol göstermek olarak tanımlanabilir. Elektronik ortamda danışmanlık hizmeti, video konferans, mesajlaşma, Internet telefonları ve diğer paylaşım ve iletişim araçlarının kullanılması ile gerçekleştirilir. Öğrenciler, kitap veya diğer kaynaklarda bulamayacakları türden bilgileri, alanlarında deneyimli ve uzman kişilerden öğrenmeye çalışırlar. &lt;/p&gt;</icerik>
+<cokluortam>icerik/209.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>26</girisno>
+<ellesirala>210</ellesirala>
+<baslik>2.10. Tele-danışmanlık için Gerekli Teknolojiler</baslik>
+<gorsel>icerik/210.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Tele-danışmanlık servisi verebilmek için gerekli teknolojileri inceleyelim.&lt;/p&gt;</icerik>
+<cokluortam>icerik/210.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>27</girisno>
+<ellesirala>211</ellesirala>
+<baslik>2.11. Çalışma Zamanı</baslik>
+<gorsel>icerik/211.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bu bölümde 5 farklı e-öğrenme türünü ve her biri için gerekli teknolojileri öğrendik. Bunların pek çok farklı türden yalnızca birkaç tanesi olduğunu ve çok çeşitli biçimlerde karışık olarak kullanılabileceğini unutmayın.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Bu bilgiler ışığında aşağıdaki işlemleri gerçekleştirin.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Projenizin ticari, performans ve öğrenme hedeflerini belirleyin ve bir sonuca varın.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Hangi e-öğrenme türünün/türlerinin hedeflerinize ulaşmak için daha uygun olduğunu belirleyin. &lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Kullanıcıların ne tür donanım, yazılım ve ağ bağlantısına sahip olduğunu listeleyin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Bunların dışındaki gereksinimleri yukarıdaki matris biçiminde organize edin. &lt;/li&gt;
+&lt;/ol&gt;</icerik>
+<cokluortam>icerik/211.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>28</girisno>
+<ellesirala>300</ellesirala>
+<baslik>3. Araçların Sınıflandırılması</baslik>
+<gorsel>icerik/300.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Yanıtlanması en zor sorulardan biri &amp;quot;e-öğrenme için hangi aracı kullanmalıyım&amp;quot; sorusudur. E-öğrenme ortamında bütün ihtiyaçları karşılayabilecek tek bir araç bulunmamaktadır. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Hedefimize ulaşmak için, yüzlerce aday arasından seçilen onlarca yazılım gerekmektedir. Hatta, her gün ortaya çıkan yenilikleri ve gelişmeleri göz önünde bulundurursak, dün verdiğimiz bir karar için bugün pişman bile olabiliriz. Ama her durumda araçlar hakkında daha detaylı bilgiye sahip olmamız, doğru karar vermemizi sağlayacak ilk adımdır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/300.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>29</girisno>
+<ellesirala>301</ellesirala>
+<baslik>3.1. Düzeyler ve İşlemler</baslik>
+<gorsel>icerik/301.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme çok farklı ölçek ve kapsam tanımlarına göre bir çok ürün kullanılarak oluşturulur. Bu farklı birimleri anlamak son derece önemlidir, çünkü tasarım teknikleri ve ortamın yaratılması için kullanılan araçlar bu birimlerden etkilenir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/301.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>30</girisno>
+<ellesirala>302</ellesirala>
+<baslik>3.2. Çözünürlük Düzeyleri</baslik>
+<gorsel>icerik/302.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Öğrenme birimleri, tamamen bir programdan oluşabileceği gibi bireysel medya bileşenlerini de kapsayabilir. E-öğrenme kapsamında, her bir birimin boyutu &amp;quot;çözünürlük düzeyi&amp;quot; olarak adlandırılır. En kapsamlı olanı &amp;quot;program&amp;quot;dır. Program, bireysel dersler ve kitaplar gibi tüm öğrenme ürünleri kapsar. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;Dersler&amp;quot; genellikle hedeflere ulaşmak için kullanılan farklı bölüm veya konuları kapsar. Bir alt düzeyde ise genellikle tek bir soruya yanıt veren &amp;quot;sayfalar&amp;quot; yer alır. Bu birim, çoklu ortam kapsamında tek bir ekran olarak da düşünülebilir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;En alt düzeyde ise &amp;quot;medya&amp;quot; bileşenleri bulunur. Bu bileşenler, resim, metin, animasyon dizileri ve video görüntülerinden oluşabilir.  &lt;/p&gt;</icerik>
+<cokluortam>icerik/302.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>31</girisno>
+<ellesirala>303</ellesirala>
+<baslik>3.3. Her Düzey ve İşlem için Araçlar</baslik>
+<gorsel>icerik/303.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Öğrenme ürünleri dikey olarak, süreçleri ise yatay olarak ele aldığımız sınıflandırma taslağımıza göz atalım. &lt;/p&gt;</icerik>
+<cokluortam>icerik/303.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>32</girisno>
+<ellesirala>304</ellesirala>
+<baslik>3.4. Çalışma Zamanı</baslik>
+<gorsel>icerik/304.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bu bölümde öğrenme ürünlerinin, en küçük medya elemanından tüm programa kadar ne kadar farklı boyut ve kapsamda olabileceğini gördük. Her bir düzeyde oluşturma, iletme ve erişim için farklı teknolojiler kullanılabilmektedir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt; Bu çalışmanın bir çerçevesini çizmek amacıyla aşağıdaki adımları gerçekleştirin. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Kurumunuzun sorumluluk alanını belirleyin. Örneğin dersleri satın alıp, organize ederek öğrencilere sunacak mısınız? &lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Tanıdığınız ve kullanmayı bildiğiniz araçları listeleyin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Bu bölümde gördüğünüz her bir kategori için mümkün olduğunca çok çeşitli araçları listeleyin.  &lt;/li&gt;
+&lt;/ol&gt;</icerik>
+<cokluortam>icerik/304.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>33</girisno>
+<ellesirala>400</ellesirala>
+<baslik>4. Donanım ve Ağlar</baslik>
+<gorsel>icerik/400.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayar donanımı ve ağlar, e-öğrenme ortamının temelini oluşturur. Yazılım ve içerik için alt yapı oluşturur. Bir kere alındıktan ve kurulduktan sonra değiştirilmesi en zor olan teknoloji bileşenleridir. Bu nedenle farklı donanım ve ağ türlerine ilişkin güçlü ve sınırlı yönlerin farkedilmesi, kullanım açısından çok önemlidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/400.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>34</girisno>
+<ellesirala>401</ellesirala>
+<baslik>4.1. E-Öğrenme için Donanım</baslik>
+<gorsel>icerik/401.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenmenin oluşturulması, barındırılması ve erişimi için çok sayıda yazılım gereklidir. Tüm bu yazılımlar, donanım aracılığı ile çalışır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/401.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>35</girisno>
+<ellesirala>402</ellesirala>
+<baslik>4.2. Donanım nasıl olmalı?</baslik>
+<gorsel>icerik/402.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayarlar içleri çipler, devreler, diskler, kablolar ve diğer bileşenlerle dolu olan kutulardır. Sıradan kullanıcıların bilgisayarın iç yapısından çok, hangi özelliklere sahip olduğunu bilmeleri yeterlidir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Bilgisayarlar, yıllardır hızlı bir gelişim göstermelerine ve özelliklerinin değişmesine rağmen, standart bazı belirleyicilere göre tercih edilirler. E-öğrenme için gerekli bazı belirleyici özelliklere göz atalım. &lt;/p&gt;</icerik>
+<cokluortam>icerik/402.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>36</girisno>
+<ellesirala>403</ellesirala>
+<baslik>4.3. İşlemci (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/403.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;İşlemci&amp;quot; bilgisayarın işlemleri gerçekleştiren bölümüdür. Bir yazılım veya işletim sistemi tarafından verilen tüm yönergeler, işlemci tarafından yürütülür. Bilgisayarın en önemli parçasıdır.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;İşlemcinin en önemli özelliği &amp;quot;hız&amp;quot;dır. Megahertz (MHz) veya Gigahertz (GHz) cinsinden ifade edilir. Örneğin, 2.2 GHz hıza sahip bir işlemci saniyede 2.2 milyar işlem gerçekleştirir. Modern işlemciler işlemci hızını artıran dahili bir &amp;quot;bellek&amp;quot; ile üretilmektedir. Bu alanın 256 KB (kilobytes) veya daha büyük olması tercih edilir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Windows ve Linux kullanıcıları genellikle Intel ve AMD &amp;quot;marka&amp;quot; işlemcileri, Macintosh kullanıcıları ise PowerPC G4 işlemcisini kullanmaktadırlar. İşlemci tasarımlarıda her &amp;quot;nesil&amp;quot;de değişmektedir. Son teknolojiyi takip etmek ve piyasaya son yıllarda sürülen &amp;quot;model&amp;quot;i almak daha avantajlı olacaktır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/403.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>37</girisno>
+<ellesirala>404</ellesirala>
+<baslik>4.4. Bellek (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/404.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayarın belleği, insanın kısa süreli belleği gibidir. Bu alanda Bu alanda veriler ve yönergeler saklanır. Genellikle, RAM (Random Access Memory) olarak adlandırılan bu alanın &amp;quot;kapasite&amp;quot;si MB (Megabytes) veya GB (Gigabytes) cinsinden ifade edilir. Bilgisayarın diğer donanım özelliklerine göre farklı bellek &amp;quot;tür&amp;quot;leri kullanılabilir (DIMMS; SDRAM vb.).&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Önemli diğer bir noktada belleğin hızıdır. &amp;quot;Hız&amp;quot; bilgisayarın bellekten okuma ve ve belleğe yazma hızını ifade eder ve yürütülen genel işlemlerin hızını etkileyebilir. 256 MB pek çok işlem için yeterli bir kapasitedir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/404.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>38</girisno>
+<ellesirala>405</ellesirala>
+<baslik>4.5. Sabit Disk (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/405.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;Sabit disk&amp;quot; insanın uzun süreli belleği gibidir. Kaydedilen tüm veriler her zaman oradadır ve her an erişilebilir durumdadır. Sabit diskin en önemli özelliği &amp;quot;kapasite&amp;quot;sidir. Kapasite, sabit diskte kaç GB bilgi saklanabileceğini belirler. Bu alan ne kadar büyükse o kadar iyidir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Ayrıca, bellekte olduğu gibi, sabit disk içinde &amp;quot;hız&amp;quot; önemlidir. Sabir diskin yavaş olması verilerin okunması ve yazılması sürecinde zaman kaybına neden olabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/405.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>39</girisno>
+<ellesirala>406</ellesirala>
+<baslik>4.6. Video Kart (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/406.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Video görüntüsü iki bileşene bağlı olarak değişir: Kasanın içindeki video kartı ve ona bağlı monitör. Video görüntüsünün kalitesini etkileyen bazı faktörler vardır. Bunlardan biri &amp;quot;çözünürlük&amp;quot;tür. Çözünürlük ne kadar yüksek olursa, görüntü kalitesi de o kadar iyi olur. 1024x768 veya daha fazlası oldukça uygun bir tercihtir. Diğer önemli bir faktör ise &amp;quot;renk derinliği&amp;quot;dir. Ekrandaki her bir noktayı temsil eden bit sayısıdır. Özellikle grafik ve video görüntüleri için 24-bit renk derinliği uygun olacaktır. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Başka bir faktör &amp;quot;tazeleme hızı&amp;quot;dır. Bu hız, video kartın görüntüyü hangi sıklıkta çizeceğini belirler. LCD monitörlerinde tazeleme hızının çok önemi yoktur. 60 Hz uygun bir tercih olabilir, ancak CRT monitörlerde 75 Hz veya daha fazla olması önerilir. Çoğu video kartının işlemleri hızlandırmak için dahili bellekleri bulunur. Sıradan işlemler için 4 MB yeterli olabilir, ama 3 boyutlu modelleme veya simülasyonlar için 32 MB veya fazlası önerilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/406.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>40</girisno>
+<ellesirala>407</ellesirala>
+<baslik>4.7. Video Ekranı (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/407.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Video ekranı, video kartın gönderdiği verileri görüntüler. Bu nedenle ekran ve kartın özellikleri benzer olmalıdır. Şimdi, ekran özelliklerine göz atalım. &amp;quot;Fiziksel boyut&amp;quot;u ekranın görüntü alanını ifade eder. Bu boyut, ekranın çapraz köşeleri arasının ölçümüdür. E-öğrenme için 16 inch ve üstü ekran boyutları tercih edilebilir. &amp;quot;Dot pitch&amp;quot; ekrandaki noktalar arasındaki boşluktur. Noktalar birbirine ne kadar yakın olursa görüntü o kadar iyi olur. E-öğrenme için 0,27 mm yeterli bir ölçüdür. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;Görüntü türü&amp;quot; ekranın diğer özelliklerinden biridir. CRT ve LCD olmak üzere ikiye ayrılır. CRT katot-ışın tüpü ve LCD ise likit kristal görüntü demektir. LCD ekranlar daha yeni bir teknolojidir ve ekranları yandan bakıldığında çok incedir. Diğer yandan CRT ekranlar çok yer kaplamaktadır, ama LCD ekranlara göre daha ekonomiktir. Ayrıca, ekranlarında görüntüyü &amp;quot;tazeleme hızı&amp;quot; vardır. Bu hız en az video kartının tazeleme hızı kadar olmalıdır. 85 Hz veya daha fazlası tercih edilebilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/407.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>41</girisno>
+<ellesirala>408</ellesirala>
+<baslik>4.8. Optik Sürücü: CD-ROM veya DVD (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/408.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Günümüz bilgisayarları CD-ROM veya DVD gibi okuma ve yazma işlemlerini gerçekleştiren &amp;quot;optik disk&amp;quot;leri içermektedir. Fiziksel boyutları standartlaşmış olmakla beraber, optik diskler arasında çeşitli farklılıklar vardır. Optik disk &amp;quot;tür&amp;quot;leri sadece okunabilir (CD-ROM veya DVD-ROM), bir kez yazılabilir (CD-R) ve tekrar tekrar yazılabilir (CD-RW veya DVD-RW) olarak ayrılır. Bu nedenle optik sürücü konusundaki tercihler, kullanım amacı ve maliyetine göre dikkatle seçilmelidir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;CD-ROM sürücüler &amp;quot;hız&amp;quot;ları açısından 24, 32 veya farklı hızlarda yazım özellikleri taşıyabilirler. DVD daha gelişmiş bir teknoloji olduğu için tercih edilebilir, ancak herkesin bu formatı kullanabilecek olmasına dikkat edilmelidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/408.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>42</girisno>
+<ellesirala>409</ellesirala>
+<baslik>4.9. Ses (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/409.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Çokluortamın en önemli özelliklerinden olan ses kullanılmadığı zaman e-öğrenme amacına ulaşamaz. Kulaklık ve mikrofon kullanımı için gerekli çıkışlar her bilgisayarda bulunur. Ses konusunda önemli faktörlerdem biri sesin kaç &amp;quot;kanal&amp;quot;dan çıktığıdır. Çoğu bilgisayar stereo sağ ve sol olmak üzere iki çıkış özelliğine sahiptir. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Bunun yanı sıra, subwoofer çıkışı veya surround sistemi gibi çoklu kanaldan çıkışlarda yapılabilir. Genellikle iki kanallı stereo ses yapısı e-öğrenme için yeterlidir. E-öğrenme ses içerdiğinde &amp;quot;hoparlör&amp;quot; veya &amp;quot;kulaklık&amp;quot; kullanılabilir. Ayrıca, sesli konferans veya ses kaydı gerektiren durumlarda &amp;quot;mikrofon&amp;quot; da gereklidir. Bu amaçla, farklı kulaklık ve mikrofon kombinasyonları kullanılabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/409.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>43</girisno>
+<ellesirala>410</ellesirala>
+<baslik>4.10. Ağ Arayüzü (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/410.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme için ağ bağlantısı vazgeçilmezdir. Yerel ağa bağlantı için &amp;quot;ağ kartı&amp;quot; gerekir. Çoğu yerel ağ, hızlarına göre farklılık gösteren 10Base-T, 100Base-T, 10/100Base-T veya Gigabit Ethernet türlerinden &amp;quot;Ethernet&amp;quot; tabanlı kart türleriyle uyumludur. Bilgisayar üzerindeki bağlantı noktası ise RJ45 olarak adlandırılır. Farklı tür bilgisayarlarda farklı türde kartlar da bulunabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/410.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>44</girisno>
+<ellesirala>411</ellesirala>
+<baslik>4.11. Modem (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/411.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayarlar, modem ve bir telefon hattı aracılığı ile de Internet&apos;e bağlanabilirler. Modemler için &amp;quot;protokol&amp;quot;ler, en etkili hıza karar verirler. Farklı modemler ve farklı tercihler yapılabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/411.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>45</girisno>
+<ellesirala>412</ellesirala>
+<baslik>4.12. Kasa (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/412.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kasa, bilgisayar donanımının içine yerleştirildiği kutudur. Taşınabilirlik, kapladığı alan, soğutma özellikleri ve konumlandırılmasına ilişkin özelliklerine dikkat edilmelidir. E-öğrenme için taşınabilir olması önemli olabileceğinden tercihler bu doğrultuda yapılmalıdır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/412.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>46</girisno>
+<ellesirala>413</ellesirala>
+<baslik>4.13. Klavye ve Fare (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/413.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Klavyeler standart olduğundan e-öğrenme açısından dikkat edilebilecek tek konu, dizüstü bilgisayar klavyelerinin kullanımının küçük boyutları nedeni ile zor olabilmesidir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Fare açısından ise, kişisel olarak rahat kullanılabilen tüm türler e-öğrenme için uygundur.  &lt;/p&gt;</icerik>
+<cokluortam>icerik/413.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>47</girisno>
+<ellesirala>414</ellesirala>
+<baslik>4.14.  Video Kamera (Donanım Hakkında Bilgiler)</baslik>
+<gorsel>icerik/414.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Video kameralar, video konferans veya video sunumları hazırlamak için görüntüyü işleyen aletlerdir. Bu işlemler için &amp;quot;webcam&amp;quot; olarak adlandırılan küçük kameralar veya daha büyük boyutlu ve kayıt yapabilen kameralar kullanılabilir. Kameraların bağlantı türleri, IEEE 1394, USB ve TV girişi olarak sayılabilir. Günümüz teknolojileri doğrultusunda dijital kameralar tercih edilebilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/414.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>48</girisno>
+<ellesirala>415</ellesirala>
+<baslik>4.15. Donanım Seçiminde Önemli Faktörler</baslik>
+<gorsel>icerik/415.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayar için donanım belirlerken, teknik kapasitelerin yanı sıra dikkat edilmesi gereken bazı faktörler vardır. Bunlar; garanti süreleri, teknik destek olanakları, servis alımları ve güncellenebilirlik olarak sıralanabilir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/415.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>49</girisno>
+<ellesirala>416</ellesirala>
+<baslik>4.16. Çalışma Zamanı</baslik>
+<gorsel>icerik/416.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Bilgisayar donanımına ait pek çok bilgimizi tazeledik. Şimdi e-öğrenme konusunda bazı karar vermemiz gerekiyor.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Öğrenciler ve hazırlayanlar için gerekli bilgisayar türlerini belirleyin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Olası tüm modelleri, markaları ve özelliklerini listeleyin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Elinizdeki donanımla olması gereken donanımı karşılaştırın ve farklılıkları not edin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Bu farkları kapatmak için ne yapmanız gerektiğine karar verin. Bazı eklenti parçalar almak mı, bazı parçaları yenilemek mi veya yeni baştan donanım almak mı?  &lt;/li&gt;
+&lt;/ol&gt;</icerik>
+<cokluortam>icerik/416.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>50</girisno>
+<ellesirala>500</ellesirala>
+<baslik>5. E - Öğrenme ve Ağ Yapıları</baslik>
+<gorsel>icerik/500.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme içeriği ağlar üzerinde seyahat eder. Ağlar olmadan bir sunucudaki dosyayı okumak, grup arkadaşları ile dosyayı paylaşmak, e-posta ile haberleşmek ve Internet üzerindeki kaynaklardan yararlanmak olanaksızdır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/500.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>51</girisno>
+<ellesirala>501</ellesirala>
+<baslik>5.1. Ağ Türleri</baslik>
+<gorsel>icerik/501.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Ağlar, temel olarak üç boyutta toplanır: küçük, geniş ve global. Her bir tür farklı teknolojiler kullanır. Bu farklı boyutlar genellikle;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt; &lt;span class=&quot;icyazi&quot;&gt;Yerel Alan Ağları (Local Area Network-LAN)&lt;/span&gt;&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Geniş Alan Ağları (Wide Area Network-WAN) ve &lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Internet &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;icyazi&quot;&gt;olarak adlandırılır. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Yerel ağlar genellikle iş istasyonları, sunucu ve yazıcı gibi bileşenlerden oluşur ve bireysel gruplar, bölümler veya kurumlar tarafından kullanılır. Geniş alan ağları ise yerel ağlardan oluşur ve üniversiteler, devlet kurumları gibi büyük kuruluşlar tarafından tercih edilir. Internet ise diğer tüm ağları içeren en büyük ağdır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/501.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>52</girisno>
+<ellesirala>502</ellesirala>
+<baslik>5.2. Özel Ağlar</baslik>
+<gorsel>icerik/502.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;Intranet&amp;quot; bir kurum içerisindeki dahili Internet gibidir. Web sunucular yerel ağa bağlanır ve Internet üzerindeki web sunucuları gibi çalışır. Ancak yalnızca yerel ağa bağlı bilgisayarlara hizmet sunarlar.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;quot;Extranet&amp;quot; ise kurumun dış kullanıcılarına açtığı özel bir ağdır. Extranet&apos;e ulaşan kullanıcılar, kurumun Intranet&apos;ine erişemezler.  &lt;/p&gt;</icerik>
+<cokluortam>icerik/502.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>53</girisno>
+<ellesirala>503</ellesirala>
+<baslik>5.3. Kablosuz Ağ Bağlantıları</baslik>
+<gorsel>icerik/503.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kablosuz ağ bağlantıları, veri aktarımı için radyo dalgalarını kullanırlar ve bu nedenle kabloya ihtiyaç duymazlar. Cep telefonları ve kablosuz erişim kartları, her geçen gün daha çok kullanıcı tarafından kullanılmaktadır.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Günümüzde üç temel kablosuz ağ standartı bulunmaktadır;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Wi-Fi (Wireless Fidelity) (802.11b)&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;802.11a ve &lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;icyazi&quot;&gt;Bluetooth. &lt;/span&gt; &lt;/li&gt;
+&lt;/ul&gt;</icerik>
+<cokluortam>icerik/503.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>54</girisno>
+<ellesirala>504</ellesirala>
+<baslik>5.4. Ağ Hızının Hesaplanması</baslik>
+<gorsel>icerik/504.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme için tasarım yaparken dosyaların ne kadar zamanda yüklendiği ve ağ hızı gibi çeşitli konulara dikkat edilmesi gerekir. Dosyaların yükleme zamanlarını şu şekilde hesaplayabiliriz:&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Yükleme Zamanı = İçerik Boyutu / (Teorik Hız x Etkililik)&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Örneğin 100K boyutunda bir dosyamız olduğunu düşünelim. Birimlerin tutarlı olması için dosya boyutunu &amp;quot;bit&amp;quot; cinsinden ifade etmemiz gerektiğinden 8 ile çarpalım. 56 Kbps hızında bir bağlantımız olduğunu varsayalım. Bu durumda dosyamızın yüklenmesi yaklaşık 28 saniye sürecektir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Yükleme Zamanı = (100K X 8bit/bayt) / (56 Kbps x %50) = 800/28 = 28 saniye &lt;/p&gt;</icerik>
+<cokluortam>icerik/504.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>55</girisno>
+<ellesirala>505</ellesirala>
+<baslik>5.5. Dosya Boyutunun Hesaplanması</baslik>
+<gorsel>icerik/505.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Hiç bir kullanıcı yüklenmesi çok fazla zaman alan içeriğin görüntülenmesini beklemek istemez. Bu nedenle, içeriğin kabul edilebilir bir sürede yüklenmesi gerekir. Bu süreyi belirleyerek, en büyük dosya boyutunun ne kadar olması gerektiğini hesaplayabiliriz.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Dosya Boyutu = Teorik Hız x Etkililik x Kabul Edilebilir Süre&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Örneğin 56 Kbps hızındaki bir modemle, amacımız sayfanın 10 saniyede yüklenmesi sağlamak ise dosya boyutumuzun en fazla 35K olması gerekecektir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Dosya Boyutu = 56 Kbps x %50 x 10 saniye = 280 Kbits = 35 K &lt;/p&gt;</icerik>
+<cokluortam>icerik/505.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>56</girisno>
+<ellesirala>506</ellesirala>
+<baslik>5.6. Bağlantı Hızının Hesaplanması</baslik>
+<gorsel>icerik/506.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Belirli bir boyuttaki dosyanın belirli bir zaman sürecinde yüklenebilmesi için gerekli hızıda hesaplayarak bulabiliriz. &lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Teorik Hız = Dosya boyutu / (Yükleme zamanı x Etkililik)&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Örneğin 100K büyüklüğündeki bir dosyanın 10 saniyede yüklenebilmesi için gerekli bağlantı hızı 160 Kbps&apos;dir.&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;icyazi&quot;&gt;Teorik Hız = (100 K x 8bit/bayt) / (10 saniye x %50) = 800Kbit/5 saniye = 160 Kbps &lt;/p&gt;</icerik>
+<cokluortam>icerik/506.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>57</girisno>
+<ellesirala>507</ellesirala>
+<baslik>5.7. Ağ Hızları</baslik>
+<gorsel>icerik/507.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Farklı teknolojiler farklı hızlarda servis sunabilmektedir. Çeşitli örnekte yukarıda görülmektedir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/507.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>58</girisno>
+<ellesirala>508</ellesirala>
+<baslik>5.8. Çalışma Zamanı</baslik>
+<gorsel>icerik/508.swf</gorsel>
+<icerik>&lt;ol&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Elinizdeki ağları ve hızlarını inceleyiniz.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;E-öğrenme içeriği için gerekli hıza karar veriniz.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Öğrencilerin erişim için kullanacağı farklı yerleri belirleyin ve gerçekçi bir plan hazırlayın.   &lt;/li&gt;
+&lt;/ol&gt;</icerik>
+<cokluortam>icerik/508.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>59</girisno>
+<ellesirala>600</ellesirala>
+<baslik>6. E-Öğrenme İçeriğine Erişim için Araçlar</baslik>
+<gorsel>icerik/600.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Öğrenciler içeriğe erişemezlerse öğrenme gerçekleşemez. Öğrenme, içeriği bulma, gezinme, görüntüleme ve etkileşim gibi işlemler sonucunda gerçekleşir. Bu nedenle, güvenilir, kolay kullanılabilen ve içeriği doğru görüntüleyebilen araçlar gerekir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/600.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>60</girisno>
+<ellesirala>601</ellesirala>
+<baslik>6.1. Web Gözgezdiricileri</baslik>
+<gorsel>icerik/601.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Web gözgezdiricisi, Internet kullanıcıları için bir grafik arayüzü olarak tanımlanabilir. Web gözgezdiricileri çalışırken kullanıcının web sayfasına bağlanması veya bir bağa tıklamasından itibaren içeriği görüntüleyene kadar bir dizi işlem gerçekleşir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/601.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>61</girisno>
+<ellesirala>602</ellesirala>
+<baslik>6.2. Popüler Web Gözgezdiricileri</baslik>
+<gorsel>icerik/602.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;E-öğrenme dünyasında çok farklı sistemler ve yazılımlar olduğu unutulmamalıdır. Microsoft Internet Explorer ve Netscape Navigator dünya üzerinde en sık kullanılan iki web gözgezdiricidir. Ama bunların yanı sıra Mozilla, Amaya, AOL, Opera ve Firefox gibi farklı web gözgezdiricilerde kullanılmaktadır.&lt;/p&gt;</icerik>
+<cokluortam>icerik/602.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>62</girisno>
+<ellesirala>603</ellesirala>
+<baslik>6.3. Web Gözgezdiricisi Seçimi</baslik>
+<gorsel>icerik/603.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Web gözgezdiricileri farklı sürümlerinde farklı teknolojileri desteklemektedir. Öğrenciler hangisini kullanmaları gerektiğini öğrenebilirler, ancak yapımcıların işi zordur. Çünkü geliştirilen içeriğin tüm farklı sürümlerde ve platformlarda doğru çalışabilir olması önemlidir. Bu nedenle bazı faktörler göz önünde bulundurulmalıdır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/603.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>64</girisno>
+<ellesirala>604</ellesirala>
+<baslik>6.4. HTML Uyumluluk (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/604.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Tüm web gözgezdiricleri HTML uyumludur, ancak HTML içinde farklı sürümler vardır. Hangi gözgezdiricinin hangi HTML sürümü ile uyumlu olduğuna dikkat edilmelidir. Dünya üzerindeki en düşük standarta göre çalışmak en doğrusudur. Eğer bu yapılamıyorsa, içeriğin görüntülenmesi için hangi sürümün gerektiği konusunda kullanıcılar bilgilendirilmelidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/604.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>65</girisno>
+<ellesirala>605</ellesirala>
+<baslik>6.5. İşletim Sistemi (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/605.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Tüm web gözgezdiricilerinin tüm sürümleri her işletim sisteminde çalışmamaktadır. Aynı sürüm gözgezdiriclerin bile görüntüleme şekilleri işletim sistemine göre farklılık gösterebilmektedir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/605.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>66</girisno>
+<ellesirala>606</ellesirala>
+<baslik>6.6. Görüntülenen Dosya Biçimleri (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/606.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Çoğu gözgezdirici GIF ve JPG resim dosyası biçimlerini görüntüleyebilmektedir. Ama PNG uzantıları henüz tam destek almamıştır. Dosya biçimleri arasındaki bu farklar ses ve video dosyaları içinde geçerlidir. Hangi biçimin tüm gözgezdiriciler tarafından desteklendiğine dikkat etmek, daha güvenli sonuçlar alınmasını sağlayacaktır. &lt;/p&gt;</icerik>
+<cokluortam>icerik/606.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>67</girisno>
+<ellesirala>607</ellesirala>
+<baslik>6.7. Arayüz Özellikleri (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/607.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Diğer tüm yazılımlar gibi web gözgezdiricileri de kullanıcı dostu bir arayüze sahip olmalıdır. Sık yapılan işlemlerin kolay ve güvenilir şekilde gerçekleştirilmesi önemlidir. Klavye kısayolları, işaretleme olanakları, menüler, durum çubuğu ve görsel ipuçları içermelidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/607.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>68</girisno>
+<ellesirala>608</ellesirala>
+<baslik>6.8. Güvenlik (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/608.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;Kullandığımız web gözgezdirici yazılımı gizlilik içeren işlemler için güvenlik sağlamalıdır. En azından Internet Explorer, Netscape Navigator ve Opera gözgezdiricilerinin desteklediği gibi 128 bit şifreleme yapabilmelidir. Diğer taraftan web sunucusunun güvenliği nasıl sağlanmalıdır? &lt;/p&gt;</icerik>
+<cokluortam>icerik/608.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>69</girisno>
+<ellesirala>609</ellesirala>
+<baslik>6.9. Eklenti Programlar (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/609.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;İçeriğe erişirken kullanılan pek çok farklı yazılım vardır. Acrobat Reader, Flash, Shockwave ve medya oynatıcılar bu yazılımlardan bazılarıdır. Ancak, tüm gözgezdiriciler tüm eklentileri desteklememektedir. Bu nedenle seçim yapılırken dikkat edilmelidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/609.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>70</girisno>
+<ellesirala>610</ellesirala>
+<baslik>6.10. Diğer Faktörler (Web Gözgezdiricisi Seçimi)</baslik>
+<gorsel>icerik/610.swf</gorsel>
+<icerik>&lt;p class=&quot;icyazi&quot;&gt;İçeriği hazırlarken kullanılan senaryo dilleri DOM (Document Object Model), Java, DHTML, XML ve CSS gibi yazarlık araçları tine tüm gözgezdiriciler ve tüm sürümler tarafından desteklenmez. Dikkatli seçim yapılması önemlidir. Aksi takdirde, içeriğin görüntülenememesi veya farklı görüntülenmesi gibi sonuçlar ortaya çıkabilir. Web gözgezdiricisinin kullanıcı tercihlerine göre düzenlenebilir olması, kolay kurulabilmesi, erişilebilirlik açısından işitme ve görme engellilere olanaklar sağlaması da çok önemlidir. &lt;/p&gt;</icerik>
+<cokluortam>icerik/610.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+<egitim>
+<girisno>71</girisno>
+<ellesirala>611</ellesirala>
+<baslik>6.11. Çalışma Zamanı</baslik>
+<gorsel>icerik/611.swf</gorsel>
+<icerik>&lt;ol&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Hedef kitlenizin kullandığı tüm işletim sistemlerini ve gözgezdirici sürümlerini analiz edin.&lt;/li&gt;
+  &lt;li class=&quot;icyazi&quot;&gt;Hangi web gözgezdiricisi(leri) için tasarım yapmanız gerektiğine karar verin. &lt;/li&gt;
+&lt;/ol&gt;</icerik>
+<cokluortam>icerik/611.flv</cokluortam>
+<cokluortamtip>FLV</cokluortamtip>
+<kaynakaktif>0</kaynakaktif>
+<ipucuaktif>0</ipucuaktif>
+<tamekran>icerik/iu_yok.swf</tamekran>
+<tamekranaktif>0</tamekranaktif>
+<dersnotlari>icerik/dersnotlari.swf</dersnotlari>
+</egitim>
+</dataroot>

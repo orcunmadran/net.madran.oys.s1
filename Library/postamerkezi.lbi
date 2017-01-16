@@ -1,0 +1,60 @@
+<!--Fireworks MX Dreamweaver LBI target.  Created -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<table border="0" cellpadding="0" cellspacing="0" width="290">
+<!-- fwtable fwsrc="postamerkezi.png" fwbase="postamerkezi.gif" -->
+  <tr>
+<!-- Shim row, height 1. -->
+   <td><img src="postamerkezi/spacer.gif" width="209" height="1" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="81" height="1" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr><!-- row 1 -->
+   <td colspan="2"><img name="postamerkezi_r1_c1" src="postamerkezi/postamerkezi_r1_c1.gif" width="290" height="58" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="58" border="0"></td>
+  </tr>
+  <tr><!-- row 2 -->
+   <td><a href="../mesajlar/mesajgonder.php"><img name="postamerkezi_r2_c1" src="postamerkezi/postamerkezi_r2_c1.gif" width="209" height="20" border="0"></a></td>
+   <td rowspan="10"><img name="postamerkezi_r2_c2" src="postamerkezi/postamerkezi_r2_c2.gif" width="81" height="215" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr><!-- row 3 -->
+   <td><img name="postamerkezi_r3_c1" src="postamerkezi/postamerkezi_r3_c1.gif" width="209" height="13" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="13" border="0"></td>
+  </tr>
+  <tr><!-- row 4 -->
+   <td><a href="../mesajlar/mesajlar.php"><img name="postamerkezi_r4_c1" src="postamerkezi/postamerkezi_r4_c1.gif" width="209" height="20" border="0"></a></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td><img name="postamerkezi_r5_c1" src="postamerkezi/postamerkezi_r5_c1.gif" width="209" height="14" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="14" border="0"></td>
+  </tr>
+  <tr><!-- row 6 -->
+   <td><a href="../mesajlar/mesajgonderilmis.php"><img name="postamerkezi_r6_c1" src="postamerkezi/postamerkezi_r6_c1.gif" width="209" height="20" border="0"></a></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr><!-- row 7 -->
+   <td><img name="postamerkezi_r7_c1" src="postamerkezi/postamerkezi_r7_c1.gif" width="209" height="34" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="34" border="0"></td>
+  </tr>
+  <tr><!-- row 8 -->
+   <td><a href="../duyurular/duyurular.php"><img name="postamerkezi_r8_c1" src="postamerkezi/postamerkezi_r8_c1.gif" width="209" height="20" border="0"></a></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr><!-- row 9 -->
+   <td><img name="postamerkezi_r9_c1" src="postamerkezi/postamerkezi_r9_c1.gif" width="209" height="16" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="16" border="0"></td>
+  </tr>
+  <tr><!-- row 10 -->
+   <td><a href="../duyurular/gecmisduyurular.php"><img name="postamerkezi_r10_c1" src="postamerkezi/postamerkezi_r10_c1.gif" width="209" height="20" border="0"></a></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr><!-- row 11 -->
+   <td><img name="postamerkezi_r11_c1" src="postamerkezi/postamerkezi_r11_c1.gif" width="209" height="38" border="0"></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="38" border="0"></td>
+  </tr>
+  <tr><!-- row 12 -->
+   <td colspan="2"><a href="../mesajlar/mesajlar.php"><img name="postamerkezi_r12_c1" src="postamerkezi/postamerkezi_r12_c1.gif" width="290" height="50" border="0"></a></td>
+   <td><img src="postamerkezi/spacer.gif" width="1" height="50" border="0"></td>
+  </tr>
+</table>
